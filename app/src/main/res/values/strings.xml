@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppdeLogin</string>
+    <string name="btnLogin">Login</string>
+    <string name="edtUsuario">Digite seu Ususario</string>
+    <string name="txtBemVindo">Seja Bem Vindo</string>
+    <string name="txtAssunto">Abaixo voce pode fazer login</string>
+    <string name="editSenha">Digite sua senha</string>
+    <string name="Usuario_ou_senha_errada">Usuario ou senha Invalidos</string>
+    <string name="Sem_usuario">Sem Usuario</string>
+    <string name="Deslogar_menu">Deslogar</string>
+</resources>
